@@ -1,0 +1,316 @@
+@-ms-viewport
+{
+	width: 380px;
+}
+
+@-webkit-viewport
+{
+	width: 380px;
+}
+
+@-o-viewport
+{
+	width: 380px;
+}
+
+@-moz-viewport
+{
+	width: 380px;
+}
+
+@viewport
+{
+	width: 380px;
+}
+
+.html
+{
+	background-color: #7F7F7F;
+}
+
+#page
+{
+	z-index: 1;
+	width: 380px;
+	min-height: 570px;
+	border-style: none;
+	border-color: #000000;
+	background: #FFFFFF url("../images/christian-background-loops.jpg") no-repeat left top;
+}
+
+#page_position_content
+{
+	margin-top: 19px;
+	margin-bottom: -1px;
+}
+
+#pu85-4
+{
+	width: 0.01px;
+	margin-left: 57px;
+	position: relative;
+}
+
+#u85-4
+{
+	z-index: 2;
+	margin-right: -10000px;
+}
+
+#u193-4
+{
+	z-index: 48;
+	width: 220px;
+	min-height: 20px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #D764A8;
+	font-size: 40px;
+	line-height: 48px;
+	text-align: center;
+	font-family: germania-one, sans-serif;
+	font-weight: 400;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 52px;
+	left: 11px;
+}
+
+#menuu847
+{
+	z-index: 6;
+	width: 380px;
+	margin-top: 2px;
+}
+
+#u1887
+{
+	width: 74px;
+	min-height: 34px;
+	margin-right: -10000px;
+}
+
+#u1890
+{
+	width: 74px;
+	padding-bottom: 17px;
+}
+
+#u1890:hover
+{
+	margin: 0px;
+}
+
+#u1890:active
+{
+	margin: 0px;
+}
+
+#u872
+{
+	width: 74px;
+	min-height: 34px;
+	margin-right: -10000px;
+	left: 76px;
+}
+
+#u873
+{
+	width: 74px;
+	padding-bottom: 17px;
+}
+
+#u1890.MuseMenuActive,#u873:hover
+{
+	margin: 0px;
+}
+
+#u873:active
+{
+	margin: 0px;
+}
+
+#u889
+{
+	width: 74px;
+	min-height: 34px;
+	margin-right: -10000px;
+	left: 152px;
+}
+
+#u892
+{
+	width: 74px;
+	padding-bottom: 17px;
+}
+
+#u873.MuseMenuActive,#u892:hover
+{
+	margin: 0px;
+}
+
+#u892:active
+{
+	margin: 0px;
+}
+
+#u1893-4,#u876-4,#u895-4
+{
+	width: 74px;
+	min-height: 17px;
+	margin-right: -10000px;
+	top: 8px;
+}
+
+#u896
+{
+	width: 75px;
+	min-height: 34px;
+	margin-right: -10000px;
+	left: 228px;
+}
+
+#u899
+{
+	width: 75px;
+	padding-bottom: 17px;
+}
+
+#u892.MuseMenuActive,#u899:hover
+{
+	margin: 0px;
+}
+
+#u899:active
+{
+	margin: 0px;
+}
+
+#u903
+{
+	width: 75px;
+	min-height: 34px;
+	margin-right: -10000px;
+	left: 305px;
+}
+
+#u906
+{
+	width: 75px;
+	padding-bottom: 17px;
+}
+
+#u899.MuseMenuActive,#u906:hover
+{
+	margin: 0px;
+}
+
+#u906:active
+{
+	margin: 0px;
+}
+
+#u906.MuseMenuActive
+{
+	margin: 0px;
+}
+
+#u901-4,#u908-4
+{
+	width: 75px;
+	min-height: 17px;
+	margin-right: -10000px;
+	top: 8px;
+}
+
+#pu162
+{
+	width: 0.01px;
+	margin-top: 26px;
+	position: relative;
+}
+
+#u162
+{
+	z-index: 37;
+	width: 175px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u168-9
+{
+	z-index: 39;
+	width: 196px;
+	min-height: 130px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #C86CC8;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	left: 183px;
+}
+
+#u168-5
+{
+	text-align: justify;
+}
+
+#pu205
+{
+	width: 0.01px;
+	margin-top: 37px;
+	position: relative;
+}
+
+#u205
+{
+	z-index: 52;
+	width: 175px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 5px;
+}
+
+#u210-7
+{
+	z-index: 54;
+	width: 196px;
+	min-height: 115px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #D05A85;
+	position: relative;
+	margin-right: -10000px;
+	left: 179px;
+}
+
+#u168-2,#u168-3,#u210-2,#u210-4
+{
+	text-align: center;
+}
+
+#u633
+{
+	z-index: 61;
+	width: 370px;
+	height: 76px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	margin-left: 5px;
+	margin-top: 7px;
+	position: relative;
+	background: #FFFFFF url("../images/anigif.gif") no-repeat left top;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

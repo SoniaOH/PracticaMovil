@@ -1,0 +1,342 @@
+@-ms-viewport
+{
+	width: 380px;
+}
+
+@-webkit-viewport
+{
+	width: 380px;
+}
+
+@-o-viewport
+{
+	width: 380px;
+}
+
+@-moz-viewport
+{
+	width: 380px;
+}
+
+@viewport
+{
+	width: 380px;
+}
+
+.html
+{
+	background-color: #7F7F7F;
+}
+
+#page
+{
+	z-index: 1;
+	width: 380px;
+	min-height: 570px;
+	border-style: none;
+	border-color: #000000;
+	background: #FFFFFF url("../images/christian-background-loops.jpg") no-repeat left top;
+}
+
+#page_position_content
+{
+	margin-top: 19px;
+	margin-bottom: -1px;
+}
+
+#pu85-4
+{
+	width: 0.01px;
+	margin-left: 57px;
+	position: relative;
+}
+
+#u85-4
+{
+	z-index: 2;
+	margin-right: -10000px;
+}
+
+#u795-4
+{
+	z-index: 39;
+	width: 255px;
+	min-height: 20px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #D764A8;
+	font-size: 40px;
+	line-height: 48px;
+	text-align: center;
+	font-family: germania-one, sans-serif;
+	font-weight: 400;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 52px;
+	left: 9px;
+}
+
+#menuu847
+{
+	z-index: 6;
+	width: 380px;
+	margin-top: 2px;
+}
+
+#u1887
+{
+	width: 74px;
+	min-height: 34px;
+	margin-right: -10000px;
+}
+
+#u1890
+{
+	width: 74px;
+	padding-bottom: 17px;
+}
+
+#u1890:hover
+{
+	margin: 0px;
+}
+
+#u1890:active
+{
+	margin: 0px;
+}
+
+#u872
+{
+	width: 74px;
+	min-height: 34px;
+	margin-right: -10000px;
+	left: 76px;
+}
+
+#u873
+{
+	width: 74px;
+	padding-bottom: 17px;
+}
+
+#u1890.MuseMenuActive,#u873:hover
+{
+	margin: 0px;
+}
+
+#u873:active
+{
+	margin: 0px;
+}
+
+#u889
+{
+	width: 74px;
+	min-height: 34px;
+	margin-right: -10000px;
+	left: 152px;
+}
+
+#u892
+{
+	width: 74px;
+	padding-bottom: 17px;
+}
+
+#u873.MuseMenuActive,#u892:hover
+{
+	margin: 0px;
+}
+
+#u892:active
+{
+	margin: 0px;
+}
+
+#u1893-4,#u876-4,#u895-4
+{
+	width: 74px;
+	min-height: 17px;
+	margin-right: -10000px;
+	top: 8px;
+}
+
+#u896
+{
+	width: 75px;
+	min-height: 34px;
+	margin-right: -10000px;
+	left: 228px;
+}
+
+#u899
+{
+	width: 75px;
+	padding-bottom: 17px;
+}
+
+#u892.MuseMenuActive,#u899:hover
+{
+	margin: 0px;
+}
+
+#u899:active
+{
+	margin: 0px;
+}
+
+#u903
+{
+	width: 75px;
+	min-height: 34px;
+	margin-right: -10000px;
+	left: 305px;
+}
+
+#u906
+{
+	width: 75px;
+	padding-bottom: 17px;
+}
+
+#u899.MuseMenuActive,#u906:hover
+{
+	margin: 0px;
+}
+
+#u906:active
+{
+	margin: 0px;
+}
+
+#u906.MuseMenuActive
+{
+	margin: 0px;
+}
+
+#u901-4,#u908-4
+{
+	width: 75px;
+	min-height: 17px;
+	margin-right: -10000px;
+	top: 8px;
+}
+
+#pu810-6
+{
+	width: 0.01px;
+	margin-left: 6px;
+	margin-top: 4px;
+	position: relative;
+}
+
+#u810-6
+{
+	z-index: 51;
+	width: 156px;
+	min-height: 30px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #C86CC8;
+	text-align: center;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u798-6
+{
+	z-index: 43;
+	width: 160px;
+	min-height: 30px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #C86CC8;
+	text-align: center;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 8px;
+	left: 202px;
+}
+
+#pu805
+{
+	width: 0.01px;
+	position: relative;
+}
+
+#u805
+{
+	z-index: 49;
+	width: 169px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 7px;
+}
+
+#u790
+{
+	z-index: 37;
+	width: 200px;
+	position: relative;
+	margin-right: -10000px;
+	left: 180px;
+}
+
+#pu811
+{
+	width: 0.01px;
+	top: -1px;
+	margin-bottom: -1px;
+	position: relative;
+}
+
+#u811
+{
+	z-index: 57;
+	width: 175px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 8px;
+}
+
+#u816-9
+{
+	z-index: 59;
+	width: 160px;
+	min-height: 30px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #C86CC8;
+	text-align: center;
+	position: relative;
+	margin-right: -10000px;
+	left: 208px;
+}
+
+#u817
+{
+	z-index: 68;
+	width: 367px;
+	height: 87px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	margin-left: 6px;
+	top: -3px;
+	margin-bottom: -3px;
+	position: relative;
+	background: #FFFFFF url("../images/canada.gif") no-repeat left top;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

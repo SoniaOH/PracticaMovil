@@ -1,0 +1,43 @@
+<manifest alg="2" build="30" opt="false" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="3983832653"/>
+    <file name="master_a-p_gina-maestra.css" crc="4201250070" ref="mexico:canada:index:e.u.a:londres"/>
+    <file name="mexico.css" crc="4023362193" ref="mexico"/>
+    <file name="canada.css" crc="217393594" ref="canada"/>
+    <file name="index.css" crc="382566875" ref="index"/>
+    <file name="e_u_a.css" crc="444658287" ref="e.u.a"/>
+    <file name="londres.css" crc="3895133729" ref="londres"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="mexico:e.u.a:londres:canada:index"/>
+    <file name="museutils.js" crc="4291592202" ref="mexico:e.u.a:londres:canada:index"/>
+    <file name="jquery.musemenu.js" crc="3788803530" ref="mexico:e.u.a:londres:canada:index"/>
+    <file name="jquery.tobrowserwidth.js" crc="3842421675" ref="mexico:e.u.a:londres:canada:index"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="mexico:e.u.a:londres:canada:index"/>
+  </folder>
+  <folder name="images">
+    <file name="christian-background-loops.jpg" crc="178458846" ref="mexico:e.u.a:londres:canada:index"/>
+    <file name="u85-4.png" crc="260500500" ref="mexico:e.u.a:londres:canada:index"/>
+    <file name="pasted image 259x194.jpg" crc="3875616572" ref="mexico"/>
+    <file name="pasted image 420x315.jpg" crc="3807645530" ref="mexico:index"/>
+    <file name="anigif.gif" crc="4292177906" ref="mexico"/>
+    <file name="pasted image 307x164.jpg" crc="3866885730" ref="e.u.a"/>
+    <file name="pasted image 276x182.jpg" crc="349781161" ref="e.u.a"/>
+    <file name="pasted image 500x358.jpg" crc="119011740" ref="e.u.a:index"/>
+    <file name="anigifeua.gif" crc="3771821822" ref="e.u.a"/>
+    <file name="pasted image 650x470.jpg" crc="4156673135" ref="londres"/>
+    <file name="pasted image 783x600.jpg" crc="21859786" ref="londres:index"/>
+    <file name="pasted image 650x433.jpg" crc="3868503609" ref="londres"/>
+    <file name="londres.gif" crc="151820623" ref="londres"/>
+    <file name="pasted image 629x472.jpg" crc="202795781" ref="canada"/>
+    <file name="pasted image 275x183.jpg" crc="4221349626" ref="canada:index"/>
+    <file name="pasted image 425x280.jpg" crc="3881187366" ref="canada"/>
+    <file name="canada.gif" crc="416079030" ref="canada"/>
+    <file name="ban4.gif" crc="4224268062" ref="index"/>
+  </folder>
+  <file name="mexico.html" crc="3959391419" mt="1401998574166" redirect="true"/>
+  <file name="e.u.a.html" crc="408399980" mt="1401998574052" redirect="true"/>
+  <file name="londres.html" crc="61562668" mt="1401998574070" redirect="true"/>
+  <file name="canada.html" crc="4087421469" mt="1401998574082" redirect="true"/>
+  <file name="index.html" crc="260003254" mt="1401998574116" redirect="true"/>
+</manifest>
